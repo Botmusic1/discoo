@@ -1,5 +1,5 @@
 {
-  "token" : "",
+  "token" : "config.token",
   "ms" : 1500,
   "roleToDisco" : ["Role to color change goes here", "(optional) another role to disco goes here"],
   "prefix" : "g!",
